@@ -1,0 +1,13 @@
+h - header
+codigo eO, centro corbiz, usuario o cajero, país (3 letras), periodo (202306)
+
+d - detail 
+SKU, cantidad
+
+p - payment 
+tipo de pago, monto 
+
+********************************
+monto total al final con .00
+**********************************
+
